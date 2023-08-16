@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1691834059 source:c:\github\noi\dsa\01\01_01add.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+
+1692059711 source:c:\github\noi\dsa\01\01_02fib.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+
